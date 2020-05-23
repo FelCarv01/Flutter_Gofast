@@ -10,7 +10,6 @@ class AppWidget extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.orange,
       ),
-      home: Container(),
       initialRoute: '/',
       navigatorKey: Modular.navigatorKey,
       onGenerateRoute: Modular.generateRoute,
