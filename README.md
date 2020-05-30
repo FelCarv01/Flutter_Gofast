@@ -5,7 +5,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application used to learn more about it.
+
+following a playlist on YouTube channel [Renato Mota](https://www.youtube.com/channel/UCd-vLa_qcKve3CsDFlYiygA) named #FlutterGoFast.
 
 A few resources to get you started if this is your first Flutter project:
 
